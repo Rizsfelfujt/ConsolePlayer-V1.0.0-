@@ -1,0 +1,11 @@
+c:\users\szarpc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\bin\Debug\ConsolePlayer.exe.config
+c:\users\szarpc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\bin\Debug\ConsolePlayer.exe
+c:\users\szarpc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\bin\Debug\ConsolePlayer.pdb
+c:\users\szarpc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\bin\Debug\INIFile.dll
+c:\users\szarpc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\bin\Debug\TagLibSharp.dll
+c:\users\szarpc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\obj\Debug\ConsolePlayer.csprojResolveAssemblyReference.cache
+c:\users\szarpc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\obj\Debug\ConsolePlayer.exe
+c:\users\szarpc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\obj\Debug\ConsolePlayer.pdb
+C:\Users\SzarPc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SzarPc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\SzarPc\documents\visual studio 2012\Projects\ConsolePlayer\ConsolePlayer\obj\Debug\ConsolePlayer.csproj.ResolveComReference.cache

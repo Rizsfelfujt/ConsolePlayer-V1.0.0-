@@ -1,1 +1,1 @@
-ConsolePlayer 1.0.0
+![Előkép](https://github.com/Rizsfelfujt/ConsolPlayer-V1.0.0-/raw/main/logo.png)

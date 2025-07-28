@@ -1,3 +1,5 @@
 ![Előkép](https://github.com/Rizsfelfujt/ConsolePlayer-V1.0.0-/raw/main/logo.png)
 
-Fejlesztési környezet Net 4.7
+
+Konzolos alkalmazás .NET 4.7 környezetben, mely képes médiafájlok kezelésére, lejátszására.
+
